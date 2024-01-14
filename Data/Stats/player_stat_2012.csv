@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2012,"Atlanta Hawks",40,26,0.606,NA,NA,NA
+"BOS",2012,"Boston Celtics",39,27,0.591,NA,NA,NA
+"BRK",2012,"Brooklyn Nets",22,44,0.333,NA,NA,NA
+"CHA",2012,"Charlotte Hornets",7,59,0.106,NA,NA,NA
+"CHI",2012,"Chicago Bulls",50,16,0.758,NA,NA,NA
+"CLE",2012,"Cleveland Cavaliers",21,45,0.318,NA,NA,NA
+"DAL",2012,"Dallas Mavericks",36,30,0.545,NA,NA,NA
+"DEN",2012,"Denver Nuggets",38,28,0.576,NA,NA,NA
+"DET",2012,"Detroit Pistons",25,41,0.379,NA,NA,NA
+"GSW",2012,"Golden State Warriors",23,43,0.348,NA,NA,NA
+"HOU",2012,"Houston Rockets",34,32,0.515,NA,NA,NA
+"IND",2012,"Indiana Pacers",42,24,0.636,NA,NA,NA
+"LAC",2012,"Los Angeles Clippers",40,26,0.606,NA,NA,NA
+"LAL",2012,"Los Angeles Lakers",41,25,0.621,NA,NA,NA
+"MEM",2012,"Memphis Grizzlies",41,25,0.621,NA,NA,NA
+"MIA",2012,"Miami Heat",46,20,0.697,NA,NA,NA
+"MIL",2012,"Milwaukee Bucks",31,35,0.47,NA,NA,NA
+"MIN",2012,"Minnesota Timberwolves",26,40,0.394,NA,NA,NA
+"NOP",2012,"New Orleans Pelicans",21,45,0.318,NA,NA,NA
+"NYK",2012,"New York Knicks",36,30,0.545,NA,NA,NA
+"OKC",2012,"Oklahoma City Thunder",47,19,0.712,NA,NA,NA
+"ORL",2012,"Orlando Magic",37,29,0.561,NA,NA,NA
+"PHI",2012,"Philadelphia 76ers",35,31,0.53,NA,NA,NA
+"PHO",2012,"Phoenix Suns",33,33,0.5,NA,NA,NA
+"POR",2012,"Portland Trail Blazers",28,38,0.424,NA,NA,NA
+"SAC",2012,"Sacramento Kings",22,44,0.333,NA,NA,NA
+"SAS",2012,"San Antonio Spurs",50,16,0.758,NA,NA,NA
+"TOR",2012,"Toronto Raptors",23,43,0.348,NA,NA,NA
+"UTA",2012,"Utah Jazz",36,30,0.545,NA,NA,NA
+"WAS",2012,"Washington Wizards",20,46,0.303,NA,NA,NA

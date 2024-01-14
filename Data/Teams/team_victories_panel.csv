@@ -1,0 +1,361 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2011,"Atlanta Hawks",44,38,0.537,NA,NA,NA
+"ATL",2012,"Atlanta Hawks",40,26,0.606,NA,NA,NA
+"ATL",2013,"Atlanta Hawks",44,38,0.537,NA,NA,NA
+"ATL",2014,"Atlanta Hawks",38,44,0.463,"14.8M","825M",112
+"ATL",2015,"Atlanta Hawks",60,22,0.732,"7M","825M",197
+"ATL",2016,"Atlanta Hawks",48,34,0.585,"19.8M","885M",134
+"ATL",2017,"Atlanta Hawks",43,39,0.524,"22M","1.2B",117
+"ATL",2018,"Atlanta Hawks",24,58,0.293,"42M","1.3B",60
+"ATL",2019,"Atlanta Hawks",29,53,0.354,"78M","1.5B",86
+"ATL",2020,"Atlanta Hawks",20,47,0.299,"36M","1.5B",52
+"ATL",2021,"Atlanta Hawks",41,31,0.569,"37M","1.7B",169
+"ATL",2022,"Atlanta Hawks",43,39,0.524,"84M","2B",110
+"BOS",2011,"Boston Celtics",56,26,0.683,NA,NA,NA
+"BOS",2012,"Boston Celtics",39,27,0.591,NA,NA,NA
+"BOS",2013,"Boston Celtics",41,40,0.506,NA,NA,NA
+"BOS",2014,"Boston Celtics",25,57,0.305,"54.9M","1.7B",54
+"BOS",2015,"Boston Celtics",40,42,0.488,"57M","2.1B",100
+"BOS",2016,"Boston Celtics",48,34,0.585,"60.1M","2.2B",123
+"BOS",2017,"Boston Celtics",53,29,0.646,"85M","2.5B",162
+"BOS",2018,"Boston Celtics",55,27,0.671,"100M","2.8B",178
+"BOS",2019,"Boston Celtics",49,33,0.598,"88M","3.1B",100
+"BOS",2020,"Boston Celtics",48,24,0.667,"86M","3.2B",178
+"BOS",2021,"Boston Celtics",36,36,0.5,"46M","3.6B",99
+"BOS",2022,"Boston Celtics",51,31,0.622,"137M","4B",158
+"BRK",2011,"Brooklyn Nets",24,58,0.293,NA,NA,NA
+"BRK",2012,"Brooklyn Nets",22,44,0.333,NA,NA,NA
+"BRK",2013,"Brooklyn Nets",49,33,0.598,NA,NA,NA
+"BRK",2014,"Brooklyn Nets",44,38,0.537,"-99.4M","1.5B",78
+"BRK",2015,"Brooklyn Nets",38,44,0.463,"-6M","1.7B",66
+"BRK",2016,"Brooklyn Nets",21,61,0.256,"15.7M","1.8B",45
+"BRK",2017,"Brooklyn Nets",20,62,0.244,"52M","2.3B",51
+"BRK",2018,"Brooklyn Nets",28,54,0.341,"53M","2.4B",70
+"BRK",2019,"Brooklyn Nets",42,40,0.512,"42M","2.5B",92
+"BRK",2020,"Brooklyn Nets",35,37,0.486,"44M","2.7B",102
+"BRK",2021,"Brooklyn Nets",48,24,0.667,"-80M","3.2B",102
+"BRK",2022,"Brooklyn Nets",44,38,0.537,"-34M","3.5B",72
+"CHA",2011,"Charlotte Hornets",34,48,0.415,NA,NA,NA
+"CHA",2012,"Charlotte Hornets",7,59,0.106,NA,NA,NA
+"CHA",2013,"Charlotte Hornets",21,61,0.256,NA,NA,NA
+"CHA",2014,"Charlotte Hornets",43,39,0.524,"1.2M","725M",90
+"CHA",2015,"Charlotte Hornets",33,49,0.402,"4M","750M",69
+"CHA",2016,"Charlotte Hornets",48,34,0.585,"9.4M","780M",121
+"CHA",2017,"Charlotte Hornets",36,46,0.439,"21M","1.1B",76
+"CHA",2018,"Charlotte Hornets",36,46,0.439,"22M","1.3B",74
+"CHA",2019,"Charlotte Hornets",39,43,0.476,"39M","1.5B",87
+"CHA",2020,"Charlotte Hornets",23,42,0.354,"36M","1.5B",58
+"CHA",2021,"Charlotte Hornets",33,39,0.458,"34M","1.6B",91
+"CHA",2022,"Charlotte Hornets",43,39,0.524,"94M","1,7B",111
+"CHI",2011,"Chicago Bulls",62,20,0.756,NA,NA,NA
+"CHI",2012,"Chicago Bulls",50,16,0.758,NA,NA,NA
+"CHI",2013,"Chicago Bulls",45,37,0.549,NA,NA,NA
+"CHI",2014,"Chicago Bulls",48,34,0.585,"65.3M","2B",114
+"CHI",2015,"Chicago Bulls",50,32,0.61,"68M","2.3B",123
+"CHI",2016,"Chicago Bulls",42,40,0.512,"45.5M","2.5B",79
+"CHI",2017,"Chicago Bulls",41,41,0.5,"95M","2.6B",104
+"CHI",2018,"Chicago Bulls",27,55,0.329,"114M","2.9B",74
+"CHI",2019,"Chicago Bulls",22,60,0.268,"103M","3.2B",54
+"CHI",2020,"Chicago Bulls",22,43,0.338,"115M","3.3B",59
+"CHI",2021,"Chicago Bulls",31,41,0.431,"39M","3.7B",75
+"CHI",2022,"Chicago Bulls",46,36,0.561,"135M","4.1B",112
+"CLE",2011,"Cleveland Cavaliers",19,63,0.232,NA,NA,NA
+"CLE",2012,"Cleveland Cavaliers",21,45,0.318,NA,NA,NA
+"CLE",2013,"Cleveland Cavaliers",24,58,0.293,NA,NA,NA
+"CLE",2014,"Cleveland Cavaliers",33,49,0.402,"20.6M","915M",75
+"CLE",2015,"Cleveland Cavaliers",53,29,0.646,"25M","1.1B",160
+"CLE",2016,"Cleveland Cavaliers",57,25,0.695,"-40.2M","1.2B",134
+"CLE",2017,"Cleveland Cavaliers",51,31,0.622,"-6.2M","1.3B",125
+"CLE",2018,"Cleveland Cavaliers",50,32,0.61,"-13M","1.3B",128
+"CLE",2019,"Cleveland Cavaliers",19,63,0.232,"39M","1.5B",39
+"CLE",2020,"Cleveland Cavaliers",19,46,0.292,"46M","1.6B",45
+"CLE",2021,"Cleveland Cavaliers",22,50,0.306,"11M","1.7B",51
+"CLE",2022,"Cleveland Cavaliers",44,38,0.537,"74M","2.1B",94
+"DAL",2011,"Dallas Mavericks",57,25,0.695,NA,NA,NA
+"DAL",2012,"Dallas Mavericks",36,30,0.545,NA,NA,NA
+"DAL",2013,"Dallas Mavericks",41,41,0.5,NA,NA,NA
+"DAL",2014,"Dallas Mavericks",49,33,0.598,"30.4M","1.2B",112
+"DAL",2015,"Dallas Mavericks",50,32,0.61,"24M","1.4B",100
+"DAL",2016,"Dallas Mavericks",42,40,0.512,"40.3M","1.5B",102
+"DAL",2017,"Dallas Mavericks",33,49,0.402,"21M","1.9B",63
+"DAL",2018,"Dallas Mavericks",24,58,0.293,"99M","2.3B",69
+"DAL",2019,"Dallas Mavericks",33,49,0.402,"105M","2.4B",86
+"DAL",2020,"Dallas Mavericks",43,32,0.573,"84M","2.5B",119
+"DAL",2021,"Dallas Mavericks",42,30,0.583,"55M","2.7B",141
+"DAL",2022,"Dallas Mavericks",52,30,0.634,"143M","3.3B",163
+"DEN",2011,"Denver Nuggets",50,32,0.61,NA,NA,NA
+"DEN",2012,"Denver Nuggets",38,28,0.576,NA,NA,NA
+"DEN",2013,"Denver Nuggets",57,25,0.695,NA,NA,NA
+"DEN",2014,"Denver Nuggets",36,46,0.439,"14M","855M",77
+"DEN",2015,"Denver Nuggets",30,52,0.366,"26M","855M",81
+"DEN",2016,"Denver Nuggets",33,49,0.402,"21.2M","890M",81
+"DEN",2017,"Denver Nuggets",40,42,0.488,"49M","1.1B",102
+"DEN",2018,"Denver Nuggets",46,36,0.561,"47M","1.4B",105
+"DEN",2019,"Denver Nuggets",54,28,0.659,"52M","1.6B",147
+"DEN",2020,"Denver Nuggets",46,27,0.63,"27M","1.7B",149
+"DEN",2021,"Denver Nuggets",47,25,0.653,"15M","1.7B",130
+"DEN",2022,"Denver Nuggets",48,34,0.585,"67M","1.9B",99
+"DET",2011,"Detroit Pistons",30,52,0.366,NA,NA,NA
+"DET",2012,"Detroit Pistons",25,41,0.379,NA,NA,NA
+"DET",2013,"Detroit Pistons",29,53,0.354,NA,NA,NA
+"DET",2014,"Detroit Pistons",29,53,0.354,"17.6M","810M",70
+"DET",2015,"Detroit Pistons",32,50,0.39,"16M","850M",78
+"DET",2016,"Detroit Pistons",44,38,0.537,"21.8M","900M",107
+"DET",2017,"Detroit Pistons",37,45,0.451,"22M","1.1B",73
+"DET",2018,"Detroit Pistons",39,43,0.476,"52M","1.3B",81
+"DET",2019,"Detroit Pistons",41,41,0.5,"52M","1.5B",84
+"DET",2020,"Detroit Pistons",20,46,0.303,"45M","1.5B",46
+"DET",2021,"Detroit Pistons",20,52,0.278,"43M","1.6B",51
+"DET",2022,"Detroit Pistons",23,59,0.28,"92M","1.9B",49
+"GSW",2011,"Golden State Warriors",36,46,0.439,NA,NA,NA
+"GSW",2012,"Golden State Warriors",23,43,0.348,NA,NA,NA
+"GSW",2013,"Golden State Warriors",47,35,0.573,NA,NA,NA
+"GSW",2014,"Golden State Warriors",51,31,0.622,"44.9M","1.3B",121
+"GSW",2015,"Golden State Warriors",67,15,0.817,"58M","1.9B",213
+"GSW",2016,"Golden State Warriors",73,9,0.89,"74.2M","2.6B",184
+"GSW",2017,"Golden State Warriors",67,15,0.817,"120M","3.1B",202
+"GSW",2018,"Golden State Warriors",58,24,0.707,"103M","3.5B",162
+"GSW",2019,"Golden State Warriors",57,25,0.695,"109M","4.3B",154
+"GSW",2020,"Golden State Warriors",15,50,0.231,"200M","4.7B",33
+"GSW",2021,"Golden State Warriors",39,33,0.542,"-44M","5.6B",68
+"GSW",2022,"Golden State Warriors",53,29,0.646,"206M","7B",137
+"HOU",2011,"Houston Rockets",43,39,0.524,NA,NA,NA
+"HOU",2012,"Houston Rockets",34,32,0.515,NA,NA,NA
+"HOU",2013,"Houston Rockets",45,37,0.549,NA,NA,NA
+"HOU",2014,"Houston Rockets",54,28,0.659,"38M","1.3B",127
+"HOU",2015,"Houston Rockets",56,26,0.683,"75M","1.5B",151
+"HOU",2016,"Houston Rockets",41,41,0.5,"62.7M","1.7B",83
+"HOU",2017,"Houston Rockets",55,27,0.671,"95M","2.2B",151
+"HOU",2018,"Houston Rockets",65,17,0.793,"103M","2.3B",176
+"HOU",2019,"Houston Rockets",53,29,0.646,"110M","2.5B",126
+"HOU",2020,"Houston Rockets",44,28,0.611,"94M","2.5B",124
+"HOU",2021,"Houston Rockets",17,55,0.236,"33M","2.8B",39
+"HOU",2022,"Houston Rockets",20,62,0.244,"113M","3.2B",43
+"IND",2011,"Indiana Pacers",37,45,0.451,NA,NA,NA
+"IND",2012,"Indiana Pacers",42,24,0.636,NA,NA,NA
+"IND",2013,"Indiana Pacers",49,32,0.605,NA,NA,NA
+"IND",2014,"Indiana Pacers",56,26,0.683,"25M","830M",172
+"IND",2015,"Indiana Pacers",38,44,0.463,"19M","840M",88
+"IND",2016,"Indiana Pacers",45,37,0.549,"23.9M","880M",121
+"IND",2017,"Indiana Pacers",42,40,0.512,"29M","1.2B",96
+"IND",2018,"Indiana Pacers",48,34,0.585,"50M","1.4B",137
+"IND",2019,"Indiana Pacers",48,34,0.585,"55M","1.5B",114
+"IND",2020,"Indiana Pacers",45,28,0.616,"39M","1.6B",121
+"IND",2021,"Indiana Pacers",34,38,0.472,"4.1M","1.7B",77
+"IND",2022,"Indiana Pacers",25,57,0.305,"65M ","1.8B",54
+"LAC",2011,"Los Angeles Clippers",32,50,0.39,NA,NA,NA
+"LAC",2012,"Los Angeles Clippers",40,26,0.606,NA,NA,NA
+"LAC",2013,"Los Angeles Clippers",56,26,0.683,NA,NA,NA
+"LAC",2014,"Los Angeles Clippers",57,25,0.695,"20.1M","1.6B",145
+"LAC",2015,"Los Angeles Clippers",56,26,0.683,"21M","2B",132
+"LAC",2016,"Los Angeles Clippers",53,29,0.646,"-11.8M","2B",97
+"LAC",2017,"Los Angeles Clippers",51,31,0.622,"35M","2.2B",101
+"LAC",2018,"Los Angeles Clippers",42,40,0.512,"40M","2.2B",82
+"LAC",2019,"Los Angeles Clippers",48,34,0.585,"73M","2.6B",115
+"LAC",2020,"Los Angeles Clippers",49,23,0.681,"57M","2.8B",147
+"LAC",2021,"Los Angeles Clippers",47,25,0.653,"18M","3.3B",139
+"LAC",2022,"Los Angeles Clippers",42,40,0.512,"12M","3.9B",68
+"LAL",2011,"Los Angeles Lakers",57,25,0.695,NA,NA,NA
+"LAL",2012,"Los Angeles Lakers",41,25,0.621,NA,NA,NA
+"LAL",2013,"Los Angeles Lakers",45,37,0.549,NA,NA,NA
+"LAL",2014,"Los Angeles Lakers",27,55,0.329,"104.1M","2.6B",50
+"LAL",2015,"Los Angeles Lakers",21,61,0.256,"133M","2.7B",48
+"LAL",2016,"Los Angeles Lakers",17,65,0.207,"119.2M","3B",40
+"LAL",2017,"Los Angeles Lakers",26,56,0.317,"136M","3.3B",58
+"LAL",2018,"Los Angeles Lakers",35,47,0.427,"147M","3.7B",82
+"LAL",2019,"Los Angeles Lakers",37,45,0.451,"178M","4.4B",87
+"LAL",2020,"Los Angeles Lakers",52,19,0.732,"155M","4.6B",211
+"LAL",2021,"Los Angeles Lakers",42,30,0.583,"63M","5.5B",96
+"LAL",2022,"Los Angeles Lakers",33,49,0.402,"115M","5.9B",55
+"MEM",2011,"Memphis Grizzlies",46,36,0.561,NA,NA,NA
+"MEM",2012,"Memphis Grizzlies",41,25,0.621,NA,NA,NA
+"MEM",2013,"Memphis Grizzlies",56,26,0.683,NA,NA,NA
+"MEM",2014,"Memphis Grizzlies",50,32,0.61,"10.5M","750M",118
+"MEM",2015,"Memphis Grizzlies",55,27,0.671,"10M","780M",143
+"MEM",2016,"Memphis Grizzlies",42,40,0.512,"200,000","790M",87
+"MEM",2017,"Memphis Grizzlies",43,39,0.524,"15M","1B",91
+"MEM",2018,"Memphis Grizzlies",22,60,0.268,"27M","1.2B",48
+"MEM",2019,"Memphis Grizzlies",33,49,0.402,"24M","1.3B",69
+"MEM",2020,"Memphis Grizzlies",34,39,0.466,"22M","1.3B",82
+"MEM",2021,"Memphis Grizzlies",38,34,0.528,"12M","1.5B",97
+"MEM",2022,"Memphis Grizzlies",56,26,0.683,"107M","1.7B",199
+"MIA",2011,"Miami Heat",58,24,0.707,NA,NA,NA
+"MIA",2012,"Miami Heat",46,20,0.697,NA,NA,NA
+"MIA",2013,"Miami Heat",66,16,0.805,NA,NA,NA
+"MIA",2014,"Miami Heat",54,28,0.659,"12.6M","1.2B",142
+"MIA",2015,"Miami Heat",37,45,0.451,"21M","1.3B",72
+"MIA",2016,"Miami Heat",48,34,0.585,"21.1M","1.4B",117
+"MIA",2017,"Miami Heat",41,41,0.5,"63M","1.7B",96
+"MIA",2018,"Miami Heat",44,38,0.537,"40M","1.8B",93
+"MIA",2019,"Miami Heat",39,43,0.476,"58M","2B",76
+"MIA",2020,"Miami Heat",44,29,0.603,"38M","2B",163
+"MIA",2021,"Miami Heat",40,32,0.556,"16M","2.3B",91
+"MIA",2022,"Miami Heat",53,29,0.646,"83M","3B",148
+"MIL",2011,"Milwaukee Bucks",35,47,0.427,NA,NA,NA
+"MIL",2012,"Milwaukee Bucks",31,35,0.47,NA,NA,NA
+"MIL",2013,"Milwaukee Bucks",38,44,0.463,NA,NA,NA
+"MIL",2014,"Milwaukee Bucks",15,67,0.183,"11.5M","600M",36
+"MIL",2015,"Milwaukee Bucks",41,41,0.5,"12M","675M",110
+"MIL",2016,"Milwaukee Bucks",33,49,0.402,"24M","785M",81
+"MIL",2017,"Milwaukee Bucks",42,40,0.512,"20M","1.1B",102
+"MIL",2018,"Milwaukee Bucks",44,38,0.537,"25M","1.4B",103
+"MIL",2019,"Milwaukee Bucks",60,22,0.732,"69M","1.6B",180
+"MIL",2020,"Milwaukee Bucks",56,17,0.767,"27M","1.6B",151
+"MIL",2021,"Milwaukee Bucks",46,26,0.639,"11M","1.9B",165
+"MIL",2022,"Milwaukee Bucks",51,31,0.622,"51M","2.3B",117
+"MIN",2011,"Minnesota Timberwolves",17,65,0.207,NA,NA,NA
+"MIN",2012,"Minnesota Timberwolves",26,40,0.394,NA,NA,NA
+"MIN",2013,"Minnesota Timberwolves",31,51,0.378,NA,NA,NA
+"MIN",2014,"Minnesota Timberwolves",40,42,0.488,"6.9M","625M",91
+"MIN",2015,"Minnesota Timberwolves",16,66,0.195,"15M","720M",36
+"MIN",2016,"Minnesota Timberwolves",29,53,0.354,"25.9M","770M",69
+"MIN",2017,"Minnesota Timberwolves",31,51,0.378,"53M","1.1B",78
+"MIN",2018,"Minnesota Timberwolves",47,35,0.573,"47M","1.3B",108
+"MIN",2019,"Minnesota Timberwolves",36,46,0.439,"46M","1.4B",77
+"MIN",2020,"Minnesota Timberwolves",19,45,0.297,"32M","1.4B",43
+"MIN",2021,"Minnesota Timberwolves",23,49,0.319,"29M","1.6B",55
+"MIN",2022,"Minnesota Timberwolves",46,36,0.561,"87M","1.7B",106
+"NOP",2011,"New Orleans Pelicans",46,36,0.561,NA,NA,NA
+"NOP",2012,"New Orleans Pelicans",21,45,0.318,NA,NA,NA
+"NOP",2013,"New Orleans Pelicans",27,55,0.329,NA,NA,NA
+"NOP",2014,"New Orleans Pelicans",34,48,0.415,"19M","650M",76
+"NOP",2015,"New Orleans Pelicans",45,37,0.549,"20M","650M",97
+"NOP",2016,"New Orleans Pelicans",30,52,0.366,"16.7M","750M",64
+"NOP",2017,"New Orleans Pelicans",34,48,0.415,"37M","1B",71
+"NOP",2018,"New Orleans Pelicans",48,34,0.585,"29M","1.2B",115
+"NOP",2019,"New Orleans Pelicans",33,49,0.402,"49M","1.4B",73
+"NOP",2020,"New Orleans Pelicans",30,42,0.417,"44M","1.4B",77
+"NOP",2021,"New Orleans Pelicans",31,41,0.431,"24M","1.5B",73
+"NOP",2022,"New Orleans Pelicans",36,46,0.439,"94M","1.6B",99
+"NYK",2011,"New York Knicks",42,40,0.512,NA,NA,NA
+"NYK",2012,"New York Knicks",36,30,0.545,NA,NA,NA
+"NYK",2013,"New York Knicks",54,28,0.659,NA,NA,NA
+"NYK",2014,"New York Knicks",37,45,0.451,"53.4M","2.5B",65
+"NYK",2015,"New York Knicks",17,65,0.207,"109M","3B",33
+"NYK",2016,"New York Knicks",32,50,0.39,"141.2M","3.3B",74
+"NYK",2017,"New York Knicks",31,51,0.378,"140M","3.6B",64
+"NYK",2018,"New York Knicks",29,53,0.354,"155M","4B",66
+"NYK",2019,"New York Knicks",17,65,0.207,"157M","4.6B",36
+"NYK",2020,"New York Knicks",21,45,0.318,"178M","5B",58
+"NYK",2021,"New York Knicks",41,31,0.569,"71M","5.8B",126
+"NYK",2022,"New York Knicks",37,45,0.451,"155M","6.1B",91
+"OKC",2011,"Oklahoma City Thunder",55,27,0.671,NA,NA,NA
+"OKC",2012,"Oklahoma City Thunder",47,19,0.712,NA,NA,NA
+"OKC",2013,"Oklahoma City Thunder",60,22,0.732,NA,NA,NA
+"OKC",2014,"Oklahoma City Thunder",59,23,0.72,"30.8M","930M",169
+"OKC",2015,"Oklahoma City Thunder",45,37,0.549,"21M","950M",90
+"OKC",2016,"Oklahoma City Thunder",55,27,0.671,"-8.4M","1B",125
+"OKC",2017,"Oklahoma City Thunder",47,35,0.573,"64M","1.3B",117
+"OKC",2018,"Oklahoma City Thunder",48,34,0.585,"10M","1.5B",94
+"OKC",2019,"Oklahoma City Thunder",49,33,0.598,"-23M","1.6B",89
+"OKC",2020,"Oklahoma City Thunder",44,28,0.611,"51M","1.6B",116
+"OKC",2021,"Oklahoma City Thunder",22,50,0.306,"48M","1.6B",62
+"OKC",2022,"Oklahoma City Thunder",24,58,0.293,"129M","1.9B",84
+"ORL",2011,"Orlando Magic",52,30,0.634,NA,NA,NA
+"ORL",2012,"Orlando Magic",37,29,0.561,NA,NA,NA
+"ORL",2013,"Orlando Magic",20,62,0.244,NA,NA,NA
+"ORL",2014,"Orlando Magic",23,59,0.28,"20.9M","875M",44
+"ORL",2015,"Orlando Magic",25,57,0.305,"35M","900M",65
+"ORL",2016,"Orlando Magic",35,47,0.427,"44.7M","920M",94
+"ORL",2017,"Orlando Magic",29,53,0.354,"39M","1.2B",59
+"ORL",2018,"Orlando Magic",25,57,0.305,"64M","1.3B",61
+"ORL",2019,"Orlando Magic",42,40,0.512,"70M","1.4B",104
+"ORL",2020,"Orlando Magic",33,40,0.452,"37M","1.5B",82
+"ORL",2021,"Orlando Magic",21,51,0.292,"29M","1.6B",49
+"ORL",2022,"Orlando Magic",22,60,0.268,"98M","1.9B",54
+"PHI",2011,"Philadelphia 76ers",41,41,0.5,NA,NA,NA
+"PHI",2012,"Philadelphia 76ers",35,31,0.53,NA,NA,NA
+"PHI",2013,"Philadelphia 76ers",34,48,0.415,NA,NA,NA
+"PHI",2014,"Philadelphia 76ers",19,63,0.232,"24.4M","700M",53
+"PHI",2015,"Philadelphia 76ers",18,64,0.22,"14M","700M",51
+"PHI",2016,"Philadelphia 76ers",10,72,0.122,"18.2M","800M",27
+"PHI",2017,"Philadelphia 76ers",28,54,0.341,"40M","1.2B",76
+"PHI",2018,"Philadelphia 76ers",52,30,0.634,"68M","1.7B",155
+"PHI",2019,"Philadelphia 76ers",51,31,0.622,"90M","2B",157
+"PHI",2020,"Philadelphia 76ers",43,30,0.589,"51M","2.1B",102
+"PHI",2021,"Philadelphia 76ers",49,23,0.681,"13M","2.5B",126
+"PHI",2022,"Philadelphia 76ers",51,31,0.622,"87M","3.2B",120
+"PHO",2011,"Phoenix Suns",40,42,0.488,NA,NA,NA
+"PHO",2012,"Phoenix Suns",33,33,0.5,NA,NA,NA
+"PHO",2013,"Phoenix Suns",25,57,0.305,NA,NA,NA
+"PHO",2014,"Phoenix Suns",48,34,0.585,"28.2M","910M",115
+"PHO",2015,"Phoenix Suns",39,43,0.476,"22M","1B",88
+"PHO",2016,"Phoenix Suns",23,59,0.28,"26.3M","1.1B",53
+"PHO",2017,"Phoenix Suns",24,58,0.293,"31M","1.3B",61
+"PHO",2018,"Phoenix Suns",21,61,0.256,"47M","1.5B",57
+"PHO",2019,"Phoenix Suns",19,63,0.232,"42M","1.6B",47
+"PHO",2020,"Phoenix Suns",34,39,0.466,"20M","1.7B",86
+"PHO",2021,"Phoenix Suns",51,21,0.708,"15M","1.8B",189
+"PHO",2022,"Phoenix Suns",64,18,0.78,"87M","2.7B",196
+"POR",2011,"Portland Trail Blazers",48,34,0.585,NA,NA,NA
+"POR",2012,"Portland Trail Blazers",28,38,0.424,NA,NA,NA
+"POR",2013,"Portland Trail Blazers",33,49,0.402,NA,NA,NA
+"POR",2014,"Portland Trail Blazers",54,28,0.659,"11.7M","940M",121
+"POR",2015,"Portland Trail Blazers",51,31,0.622,"4M","975M",98
+"POR",2016,"Portland Trail Blazers",44,38,0.537,"41.2M","1.1B",148
+"POR",2017,"Portland Trail Blazers",41,41,0.5,"25M","1.3B",78
+"POR",2018,"Portland Trail Blazers",49,33,0.598,"40M","1.6B",95
+"POR",2019,"Portland Trail Blazers",53,29,0.646,"51M","1.9B",136
+"POR",2020,"Portland Trail Blazers",35,39,0.473,"27M","1.9B",79
+"POR",2021,"Portland Trail Blazers",42,30,0.583,"19M","2.1B",108
+"POR",2022,"Portland Trail Blazers",27,55,0.329,"81M","2.1B",55
+"SAC",2011,"Sacramento Kings",24,58,0.293,NA,NA,NA
+"SAC",2012,"Sacramento Kings",22,44,0.333,NA,NA,NA
+"SAC",2013,"Sacramento Kings",28,54,0.341,NA,NA,NA
+"SAC",2014,"Sacramento Kings",28,54,0.341,"8.9M","800M",67
+"SAC",2015,"Sacramento Kings",29,53,0.354,"4M","925M",62
+"SAC",2016,"Sacramento Kings",33,49,0.402,"18.4M","1.1B",78
+"SAC",2017,"Sacramento Kings",32,50,0.39,"50M","1.4B",71
+"SAC",2018,"Sacramento Kings",27,55,0.329,"72M","1.6B",69
+"SAC",2019,"Sacramento Kings",39,43,0.476,"81M","1.8B",103
+"SAC",2020,"Sacramento Kings",31,41,0.431,"45M","1.8B",88
+"SAC",2021,"Sacramento Kings",31,41,0.431,"25M","2B",101
+"SAC",2022,"Sacramento Kings",30,52,0.366,"29M","2B",58
+"SAS",2011,"San Antonio Spurs",61,21,0.744,NA,NA,NA
+"SAS",2012,"San Antonio Spurs",50,16,0.758,NA,NA,NA
+"SAS",2013,"San Antonio Spurs",58,24,0.707,NA,NA,NA
+"SAS",2014,"San Antonio Spurs",62,20,0.756,"40.9M","1B",221
+"SAS",2015,"San Antonio Spurs",55,27,0.671,"32M","1.2B",138
+"SAS",2016,"San Antonio Spurs",67,15,0.817,"18.4M","1.2B",159
+"SAS",2017,"San Antonio Spurs",61,21,0.744,"59M","1.6B",153
+"SAS",2018,"San Antonio Spurs",47,35,0.573,"63M","1.6B",102
+"SAS",2019,"San Antonio Spurs",48,34,0.585,"66M","1.8B",108
+"SAS",2020,"San Antonio Spurs",32,39,0.451,"63M","1.9B",80
+"SAS",2021,"San Antonio Spurs",33,39,0.458,"39M","2B",104
+"SAS",2022,"San Antonio Spurs",34,48,0.415,"99M ","2B",78
+"TOR",2011,"Toronto Raptors",22,60,0.268,NA,NA,NA
+"TOR",2012,"Toronto Raptors",23,43,0.348,NA,NA,NA
+"TOR",2013,"Toronto Raptors",34,48,0.415,NA,NA,NA
+"TOR",2014,"Toronto Raptors",48,34,0.585,"17.9M","920M",111
+"TOR",2015,"Toronto Raptors",49,33,0.598,"23M","980M",98
+"TOR",2016,"Toronto Raptors",56,26,0.683,"46.1M","1.1B",180
+"TOR",2017,"Toronto Raptors",51,31,0.622,"51M","1.4B",118
+"TOR",2018,"Toronto Raptors",59,23,0.72,"76M","1.7B",139
+"TOR",2019,"Toronto Raptors",58,24,0.707,"79M","2.1B",175
+"TOR",2020,"Toronto Raptors",53,19,0.736,"79M","2.2B",166
+"TOR",2021,"Toronto Raptors",27,45,0.375,"2.1M","2.5B",64
+"TOR",2022,"Toronto Raptors",48,34,0.585,"86M","3.1B",103
+"UTA",2011,"Utah Jazz",39,43,0.476,NA,NA,NA
+"UTA",2012,"Utah Jazz",36,30,0.545,NA,NA,NA
+"UTA",2013,"Utah Jazz",43,39,0.524,NA,NA,NA
+"UTA",2014,"Utah Jazz",25,57,0.305,"32.7M","850M",65
+"UTA",2015,"Utah Jazz",38,44,0.463,"28M","875M",99
+"UTA",2016,"Utah Jazz",40,42,0.488,"36M","910M",107
+"UTA",2017,"Utah Jazz",51,31,0.622,"61M","1.2B",151
+"UTA",2018,"Utah Jazz",48,34,0.585,"59M","1.4B",128
+"UTA",2019,"Utah Jazz",50,32,0.61,"63M","1.6B",132
+"UTA",2020,"Utah Jazz",44,28,0.611,"42M","1.7B",122
+"UTA",2021,"Utah Jazz",52,20,0.722,"96M","1.8B",180
+"UTA",2022,"Utah Jazz",49,33,0.598,"58M","2B",95
+"WAS",2011,"Washington Wizards",23,59,0.28,NA,NA,NA
+"WAS",2012,"Washington Wizards",20,46,0.303,NA,NA,NA
+"WAS",2013,"Washington Wizards",29,53,0.354,NA,NA,NA
+"WAS",2014,"Washington Wizards",44,38,0.537,"10.1M","900M",109
+"WAS",2015,"Washington Wizards",46,36,0.561,"3M","960M",113
+"WAS",2016,"Washington Wizards",41,41,0.5,"6.6M","1B",85
+"WAS",2017,"Washington Wizards",49,33,0.598,"21M","1.4B",129
+"WAS",2018,"Washington Wizards",43,39,0.524,"34M","1.6B",91
+"WAS",2019,"Washington Wizards",32,50,0.39,"55M","1.8B",64
+"WAS",2020,"Washington Wizards",25,47,0.347,"39M","1.8B",61
+"WAS",2021,"Washington Wizards",34,38,0.472,"15M","1.9B",85
+"WAS",2022,"Washington Wizards",35,47,0.427,"90M","2.5B",74

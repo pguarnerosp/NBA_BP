@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2022,"Atlanta Hawks",43,39,0.524,"84M","2B",110
+"BOS",2022,"Boston Celtics",51,31,0.622,"137M","4B",158
+"BRK",2022,"Brooklyn Nets",44,38,0.537,"-34M","3.5B",72
+"CHA",2022,"Charlotte Hornets",43,39,0.524,"94M","1,7B",111
+"CHI",2022,"Chicago Bulls",46,36,0.561,"135M","4.1B",112
+"CLE",2022,"Cleveland Cavaliers",44,38,0.537,"74M","2.1B",94
+"DAL",2022,"Dallas Mavericks",52,30,0.634,"143M","3.3B",163
+"DEN",2022,"Denver Nuggets",48,34,0.585,"67M","1.9B",99
+"DET",2022,"Detroit Pistons",23,59,0.28,"92M","1.9B",49
+"GSW",2022,"Golden State Warriors",53,29,0.646,"206M","7B",137
+"HOU",2022,"Houston Rockets",20,62,0.244,"113M","3.2B",43
+"IND",2022,"Indiana Pacers",25,57,0.305,"65M ","1.8B",54
+"LAC",2022,"Los Angeles Clippers",42,40,0.512,"12M","3.9B",68
+"LAL",2022,"Los Angeles Lakers",33,49,0.402,"115M","5.9B",55
+"MEM",2022,"Memphis Grizzlies",56,26,0.683,"107M","1.7B",199
+"MIA",2022,"Miami Heat",53,29,0.646,"83M","3B",148
+"MIL",2022,"Milwaukee Bucks",51,31,0.622,"51M","2.3B",117
+"MIN",2022,"Minnesota Timberwolves",46,36,0.561,"87M","1.7B",106
+"NOP",2022,"New Orleans Pelicans",36,46,0.439,"94M","1.6B",99
+"NYK",2022,"New York Knicks",37,45,0.451,"155M","6.1B",91
+"OKC",2022,"Oklahoma City Thunder",24,58,0.293,"129M","1.9B",84
+"ORL",2022,"Orlando Magic",22,60,0.268,"98M","1.9B",54
+"PHI",2022,"Philadelphia 76ers",51,31,0.622,"87M","3.2B",120
+"PHO",2022,"Phoenix Suns",64,18,0.78,"87M","2.7B",196
+"POR",2022,"Portland Trail Blazers",27,55,0.329,"81M","2.1B",55
+"SAC",2022,"Sacramento Kings",30,52,0.366,"29M","2B",58
+"SAS",2022,"San Antonio Spurs",34,48,0.415,"99M ","2B",78
+"TOR",2022,"Toronto Raptors",48,34,0.585,"86M","3.1B",103
+"UTA",2022,"Utah Jazz",49,33,0.598,"58M","2B",95
+"WAS",2022,"Washington Wizards",35,47,0.427,"90M","2.5B",74

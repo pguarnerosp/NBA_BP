@@ -1,0 +1,2 @@
+El script stat_player utiliza la paqueteria nbastatsR para crear un panel con todas las estadisticas de los jugadores del año 2011 a 2023.
+El script crea un panel completo con todos los jugadores y 5 paneles más que se dividen por la posicion en la que juegan.

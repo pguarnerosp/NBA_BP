@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2011,"Atlanta Hawks",44,38,0.537,NA,NA,NA
+"BOS",2011,"Boston Celtics",56,26,0.683,NA,NA,NA
+"BRK",2011,"Brooklyn Nets",24,58,0.293,NA,NA,NA
+"CHA",2011,"Charlotte Hornets",34,48,0.415,NA,NA,NA
+"CHI",2011,"Chicago Bulls",62,20,0.756,NA,NA,NA
+"CLE",2011,"Cleveland Cavaliers",19,63,0.232,NA,NA,NA
+"DAL",2011,"Dallas Mavericks",57,25,0.695,NA,NA,NA
+"DEN",2011,"Denver Nuggets",50,32,0.61,NA,NA,NA
+"DET",2011,"Detroit Pistons",30,52,0.366,NA,NA,NA
+"GSW",2011,"Golden State Warriors",36,46,0.439,NA,NA,NA
+"HOU",2011,"Houston Rockets",43,39,0.524,NA,NA,NA
+"IND",2011,"Indiana Pacers",37,45,0.451,NA,NA,NA
+"LAC",2011,"Los Angeles Clippers",32,50,0.39,NA,NA,NA
+"LAL",2011,"Los Angeles Lakers",57,25,0.695,NA,NA,NA
+"MEM",2011,"Memphis Grizzlies",46,36,0.561,NA,NA,NA
+"MIA",2011,"Miami Heat",58,24,0.707,NA,NA,NA
+"MIL",2011,"Milwaukee Bucks",35,47,0.427,NA,NA,NA
+"MIN",2011,"Minnesota Timberwolves",17,65,0.207,NA,NA,NA
+"NOP",2011,"New Orleans Pelicans",46,36,0.561,NA,NA,NA
+"NYK",2011,"New York Knicks",42,40,0.512,NA,NA,NA
+"OKC",2011,"Oklahoma City Thunder",55,27,0.671,NA,NA,NA
+"ORL",2011,"Orlando Magic",52,30,0.634,NA,NA,NA
+"PHI",2011,"Philadelphia 76ers",41,41,0.5,NA,NA,NA
+"PHO",2011,"Phoenix Suns",40,42,0.488,NA,NA,NA
+"POR",2011,"Portland Trail Blazers",48,34,0.585,NA,NA,NA
+"SAC",2011,"Sacramento Kings",24,58,0.293,NA,NA,NA
+"SAS",2011,"San Antonio Spurs",61,21,0.744,NA,NA,NA
+"TOR",2011,"Toronto Raptors",22,60,0.268,NA,NA,NA
+"UTA",2011,"Utah Jazz",39,43,0.476,NA,NA,NA
+"WAS",2011,"Washington Wizards",23,59,0.28,NA,NA,NA

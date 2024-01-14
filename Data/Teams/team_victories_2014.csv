@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2014,"Atlanta Hawks",38,44,0.463,"14.8M","825M",112
+"BOS",2014,"Boston Celtics",25,57,0.305,"54.9M","1.7B",54
+"BRK",2014,"Brooklyn Nets",44,38,0.537,"-99.4M","1.5B",78
+"CHA",2014,"Charlotte Hornets",43,39,0.524,"1.2M","725M",90
+"CHI",2014,"Chicago Bulls",48,34,0.585,"65.3M","2B",114
+"CLE",2014,"Cleveland Cavaliers",33,49,0.402,"20.6M","915M",75
+"DAL",2014,"Dallas Mavericks",49,33,0.598,"30.4M","1.2B",112
+"DEN",2014,"Denver Nuggets",36,46,0.439,"14M","855M",77
+"DET",2014,"Detroit Pistons",29,53,0.354,"17.6M","810M",70
+"GSW",2014,"Golden State Warriors",51,31,0.622,"44.9M","1.3B",121
+"HOU",2014,"Houston Rockets",54,28,0.659,"38M","1.3B",127
+"IND",2014,"Indiana Pacers",56,26,0.683,"25M","830M",172
+"LAC",2014,"Los Angeles Clippers",57,25,0.695,"20.1M","1.6B",145
+"LAL",2014,"Los Angeles Lakers",27,55,0.329,"104.1M","2.6B",50
+"MEM",2014,"Memphis Grizzlies",50,32,0.61,"10.5M","750M",118
+"MIA",2014,"Miami Heat",54,28,0.659,"12.6M","1.2B",142
+"MIL",2014,"Milwaukee Bucks",15,67,0.183,"11.5M","600M",36
+"MIN",2014,"Minnesota Timberwolves",40,42,0.488,"6.9M","625M",91
+"NOP",2014,"New Orleans Pelicans",34,48,0.415,"19M","650M",76
+"NYK",2014,"New York Knicks",37,45,0.451,"53.4M","2.5B",65
+"OKC",2014,"Oklahoma City Thunder",59,23,0.72,"30.8M","930M",169
+"ORL",2014,"Orlando Magic",23,59,0.28,"20.9M","875M",44
+"PHI",2014,"Philadelphia 76ers",19,63,0.232,"24.4M","700M",53
+"PHO",2014,"Phoenix Suns",48,34,0.585,"28.2M","910M",115
+"POR",2014,"Portland Trail Blazers",54,28,0.659,"11.7M","940M",121
+"SAC",2014,"Sacramento Kings",28,54,0.341,"8.9M","800M",67
+"SAS",2014,"San Antonio Spurs",62,20,0.756,"40.9M","1B",221
+"TOR",2014,"Toronto Raptors",48,34,0.585,"17.9M","920M",111
+"UTA",2014,"Utah Jazz",25,57,0.305,"32.7M","850M",65
+"WAS",2014,"Washington Wizards",44,38,0.537,"10.1M","900M",109

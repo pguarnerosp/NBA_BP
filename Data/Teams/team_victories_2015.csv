@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2015,"Atlanta Hawks",60,22,0.732,"7M","825M",197
+"BOS",2015,"Boston Celtics",40,42,0.488,"57M","2.1B",100
+"BRK",2015,"Brooklyn Nets",38,44,0.463,"-6M","1.7B",66
+"CHA",2015,"Charlotte Hornets",33,49,0.402,"4M","750M",69
+"CHI",2015,"Chicago Bulls",50,32,0.61,"68M","2.3B",123
+"CLE",2015,"Cleveland Cavaliers",53,29,0.646,"25M","1.1B",160
+"DAL",2015,"Dallas Mavericks",50,32,0.61,"24M","1.4B",100
+"DEN",2015,"Denver Nuggets",30,52,0.366,"26M","855M",81
+"DET",2015,"Detroit Pistons",32,50,0.39,"16M","850M",78
+"GSW",2015,"Golden State Warriors",67,15,0.817,"58M","1.9B",213
+"HOU",2015,"Houston Rockets",56,26,0.683,"75M","1.5B",151
+"IND",2015,"Indiana Pacers",38,44,0.463,"19M","840M",88
+"LAC",2015,"Los Angeles Clippers",56,26,0.683,"21M","2B",132
+"LAL",2015,"Los Angeles Lakers",21,61,0.256,"133M","2.7B",48
+"MEM",2015,"Memphis Grizzlies",55,27,0.671,"10M","780M",143
+"MIA",2015,"Miami Heat",37,45,0.451,"21M","1.3B",72
+"MIL",2015,"Milwaukee Bucks",41,41,0.5,"12M","675M",110
+"MIN",2015,"Minnesota Timberwolves",16,66,0.195,"15M","720M",36
+"NOP",2015,"New Orleans Pelicans",45,37,0.549,"20M","650M",97
+"NYK",2015,"New York Knicks",17,65,0.207,"109M","3B",33
+"OKC",2015,"Oklahoma City Thunder",45,37,0.549,"21M","950M",90
+"ORL",2015,"Orlando Magic",25,57,0.305,"35M","900M",65
+"PHI",2015,"Philadelphia 76ers",18,64,0.22,"14M","700M",51
+"PHO",2015,"Phoenix Suns",39,43,0.476,"22M","1B",88
+"POR",2015,"Portland Trail Blazers",51,31,0.622,"4M","975M",98
+"SAC",2015,"Sacramento Kings",29,53,0.354,"4M","925M",62
+"SAS",2015,"San Antonio Spurs",55,27,0.671,"32M","1.2B",138
+"TOR",2015,"Toronto Raptors",49,33,0.598,"23M","980M",98
+"UTA",2015,"Utah Jazz",38,44,0.463,"28M","875M",99
+"WAS",2015,"Washington Wizards",46,36,0.561,"3M","960M",113

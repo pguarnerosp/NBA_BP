@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2016,"Atlanta Hawks",48,34,0.585,"19.8M","885M",134
+"BOS",2016,"Boston Celtics",48,34,0.585,"60.1M","2.2B",123
+"BRK",2016,"Brooklyn Nets",21,61,0.256,"15.7M","1.8B",45
+"CHA",2016,"Charlotte Hornets",48,34,0.585,"9.4M","780M",121
+"CHI",2016,"Chicago Bulls",42,40,0.512,"45.5M","2.5B",79
+"CLE",2016,"Cleveland Cavaliers",57,25,0.695,"-40.2M","1.2B",134
+"DAL",2016,"Dallas Mavericks",42,40,0.512,"40.3M","1.5B",102
+"DEN",2016,"Denver Nuggets",33,49,0.402,"21.2M","890M",81
+"DET",2016,"Detroit Pistons",44,38,0.537,"21.8M","900M",107
+"GSW",2016,"Golden State Warriors",73,9,0.89,"74.2M","2.6B",184
+"HOU",2016,"Houston Rockets",41,41,0.5,"62.7M","1.7B",83
+"IND",2016,"Indiana Pacers",45,37,0.549,"23.9M","880M",121
+"LAC",2016,"Los Angeles Clippers",53,29,0.646,"-11.8M","2B",97
+"LAL",2016,"Los Angeles Lakers",17,65,0.207,"119.2M","3B",40
+"MEM",2016,"Memphis Grizzlies",42,40,0.512,"200,000","790M",87
+"MIA",2016,"Miami Heat",48,34,0.585,"21.1M","1.4B",117
+"MIL",2016,"Milwaukee Bucks",33,49,0.402,"24M","785M",81
+"MIN",2016,"Minnesota Timberwolves",29,53,0.354,"25.9M","770M",69
+"NOP",2016,"New Orleans Pelicans",30,52,0.366,"16.7M","750M",64
+"NYK",2016,"New York Knicks",32,50,0.39,"141.2M","3.3B",74
+"OKC",2016,"Oklahoma City Thunder",55,27,0.671,"-8.4M","1B",125
+"ORL",2016,"Orlando Magic",35,47,0.427,"44.7M","920M",94
+"PHI",2016,"Philadelphia 76ers",10,72,0.122,"18.2M","800M",27
+"PHO",2016,"Phoenix Suns",23,59,0.28,"26.3M","1.1B",53
+"POR",2016,"Portland Trail Blazers",44,38,0.537,"41.2M","1.1B",148
+"SAC",2016,"Sacramento Kings",33,49,0.402,"18.4M","1.1B",78
+"SAS",2016,"San Antonio Spurs",67,15,0.817,"18.4M","1.2B",159
+"TOR",2016,"Toronto Raptors",56,26,0.683,"46.1M","1.1B",180
+"UTA",2016,"Utah Jazz",40,42,0.488,"36M","910M",107
+"WAS",2016,"Washington Wizards",41,41,0.5,"6.6M","1B",85

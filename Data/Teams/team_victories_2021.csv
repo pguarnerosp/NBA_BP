@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2021,"Atlanta Hawks",41,31,0.569,"37M","1.7B",169
+"BOS",2021,"Boston Celtics",36,36,0.5,"46M","3.6B",99
+"BRK",2021,"Brooklyn Nets",48,24,0.667,"-80M","3.2B",102
+"CHA",2021,"Charlotte Hornets",33,39,0.458,"34M","1.6B",91
+"CHI",2021,"Chicago Bulls",31,41,0.431,"39M","3.7B",75
+"CLE",2021,"Cleveland Cavaliers",22,50,0.306,"11M","1.7B",51
+"DAL",2021,"Dallas Mavericks",42,30,0.583,"55M","2.7B",141
+"DEN",2021,"Denver Nuggets",47,25,0.653,"15M","1.7B",130
+"DET",2021,"Detroit Pistons",20,52,0.278,"43M","1.6B",51
+"GSW",2021,"Golden State Warriors",39,33,0.542,"-44M","5.6B",68
+"HOU",2021,"Houston Rockets",17,55,0.236,"33M","2.8B",39
+"IND",2021,"Indiana Pacers",34,38,0.472,"4.1M","1.7B",77
+"LAC",2021,"Los Angeles Clippers",47,25,0.653,"18M","3.3B",139
+"LAL",2021,"Los Angeles Lakers",42,30,0.583,"63M","5.5B",96
+"MEM",2021,"Memphis Grizzlies",38,34,0.528,"12M","1.5B",97
+"MIA",2021,"Miami Heat",40,32,0.556,"16M","2.3B",91
+"MIL",2021,"Milwaukee Bucks",46,26,0.639,"11M","1.9B",165
+"MIN",2021,"Minnesota Timberwolves",23,49,0.319,"29M","1.6B",55
+"NOP",2021,"New Orleans Pelicans",31,41,0.431,"24M","1.5B",73
+"NYK",2021,"New York Knicks",41,31,0.569,"71M","5.8B",126
+"OKC",2021,"Oklahoma City Thunder",22,50,0.306,"48M","1.6B",62
+"ORL",2021,"Orlando Magic",21,51,0.292,"29M","1.6B",49
+"PHI",2021,"Philadelphia 76ers",49,23,0.681,"13M","2.5B",126
+"PHO",2021,"Phoenix Suns",51,21,0.708,"15M","1.8B",189
+"POR",2021,"Portland Trail Blazers",42,30,0.583,"19M","2.1B",108
+"SAC",2021,"Sacramento Kings",31,41,0.431,"25M","2B",101
+"SAS",2021,"San Antonio Spurs",33,39,0.458,"39M","2B",104
+"TOR",2021,"Toronto Raptors",27,45,0.375,"2.1M","2.5B",64
+"UTA",2021,"Utah Jazz",52,20,0.722,"96M","1.8B",180
+"WAS",2021,"Washington Wizards",34,38,0.472,"15M","1.9B",85

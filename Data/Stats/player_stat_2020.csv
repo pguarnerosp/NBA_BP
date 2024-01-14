@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2020,"Atlanta Hawks",20,47,0.299,"36M","1.5B",52
+"BOS",2020,"Boston Celtics",48,24,0.667,"86M","3.2B",178
+"BRK",2020,"Brooklyn Nets",35,37,0.486,"44M","2.7B",102
+"CHA",2020,"Charlotte Hornets",23,42,0.354,"36M","1.5B",58
+"CHI",2020,"Chicago Bulls",22,43,0.338,"115M","3.3B",59
+"CLE",2020,"Cleveland Cavaliers",19,46,0.292,"46M","1.6B",45
+"DAL",2020,"Dallas Mavericks",43,32,0.573,"84M","2.5B",119
+"DEN",2020,"Denver Nuggets",46,27,0.63,"27M","1.7B",149
+"DET",2020,"Detroit Pistons",20,46,0.303,"45M","1.5B",46
+"GSW",2020,"Golden State Warriors",15,50,0.231,"200M","4.7B",33
+"HOU",2020,"Houston Rockets",44,28,0.611,"94M","2.5B",124
+"IND",2020,"Indiana Pacers",45,28,0.616,"39M","1.6B",121
+"LAC",2020,"Los Angeles Clippers",49,23,0.681,"57M","2.8B",147
+"LAL",2020,"Los Angeles Lakers",52,19,0.732,"155M","4.6B",211
+"MEM",2020,"Memphis Grizzlies",34,39,0.466,"22M","1.3B",82
+"MIA",2020,"Miami Heat",44,29,0.603,"38M","2B",163
+"MIL",2020,"Milwaukee Bucks",56,17,0.767,"27M","1.6B",151
+"MIN",2020,"Minnesota Timberwolves",19,45,0.297,"32M","1.4B",43
+"NOP",2020,"New Orleans Pelicans",30,42,0.417,"44M","1.4B",77
+"NYK",2020,"New York Knicks",21,45,0.318,"178M","5B",58
+"OKC",2020,"Oklahoma City Thunder",44,28,0.611,"51M","1.6B",116
+"ORL",2020,"Orlando Magic",33,40,0.452,"37M","1.5B",82
+"PHI",2020,"Philadelphia 76ers",43,30,0.589,"51M","2.1B",102
+"PHO",2020,"Phoenix Suns",34,39,0.466,"20M","1.7B",86
+"POR",2020,"Portland Trail Blazers",35,39,0.473,"27M","1.9B",79
+"SAC",2020,"Sacramento Kings",31,41,0.431,"45M","1.8B",88
+"SAS",2020,"San Antonio Spurs",32,39,0.451,"63M","1.9B",80
+"TOR",2020,"Toronto Raptors",53,19,0.736,"79M","2.2B",166
+"UTA",2020,"Utah Jazz",44,28,0.611,"42M","1.7B",122
+"WAS",2020,"Washington Wizards",25,47,0.347,"39M","1.8B",61

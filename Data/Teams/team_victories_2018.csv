@@ -1,0 +1,31 @@
+"team","yearSeason","nteam","winsTeam","lossesTeam","pctWins","EBITDA","Value","Win.to.Player_Cost_Ratio"
+"ATL",2018,"Atlanta Hawks",24,58,0.293,"42M","1.3B",60
+"BOS",2018,"Boston Celtics",55,27,0.671,"100M","2.8B",178
+"BRK",2018,"Brooklyn Nets",28,54,0.341,"53M","2.4B",70
+"CHA",2018,"Charlotte Hornets",36,46,0.439,"22M","1.3B",74
+"CHI",2018,"Chicago Bulls",27,55,0.329,"114M","2.9B",74
+"CLE",2018,"Cleveland Cavaliers",50,32,0.61,"-13M","1.3B",128
+"DAL",2018,"Dallas Mavericks",24,58,0.293,"99M","2.3B",69
+"DEN",2018,"Denver Nuggets",46,36,0.561,"47M","1.4B",105
+"DET",2018,"Detroit Pistons",39,43,0.476,"52M","1.3B",81
+"GSW",2018,"Golden State Warriors",58,24,0.707,"103M","3.5B",162
+"HOU",2018,"Houston Rockets",65,17,0.793,"103M","2.3B",176
+"IND",2018,"Indiana Pacers",48,34,0.585,"50M","1.4B",137
+"LAC",2018,"Los Angeles Clippers",42,40,0.512,"40M","2.2B",82
+"LAL",2018,"Los Angeles Lakers",35,47,0.427,"147M","3.7B",82
+"MEM",2018,"Memphis Grizzlies",22,60,0.268,"27M","1.2B",48
+"MIA",2018,"Miami Heat",44,38,0.537,"40M","1.8B",93
+"MIL",2018,"Milwaukee Bucks",44,38,0.537,"25M","1.4B",103
+"MIN",2018,"Minnesota Timberwolves",47,35,0.573,"47M","1.3B",108
+"NOP",2018,"New Orleans Pelicans",48,34,0.585,"29M","1.2B",115
+"NYK",2018,"New York Knicks",29,53,0.354,"155M","4B",66
+"OKC",2018,"Oklahoma City Thunder",48,34,0.585,"10M","1.5B",94
+"ORL",2018,"Orlando Magic",25,57,0.305,"64M","1.3B",61
+"PHI",2018,"Philadelphia 76ers",52,30,0.634,"68M","1.7B",155
+"PHO",2018,"Phoenix Suns",21,61,0.256,"47M","1.5B",57
+"POR",2018,"Portland Trail Blazers",49,33,0.598,"40M","1.6B",95
+"SAC",2018,"Sacramento Kings",27,55,0.329,"72M","1.6B",69
+"SAS",2018,"San Antonio Spurs",47,35,0.573,"63M","1.6B",102
+"TOR",2018,"Toronto Raptors",59,23,0.72,"76M","1.7B",139
+"UTA",2018,"Utah Jazz",48,34,0.585,"59M","1.4B",128
+"WAS",2018,"Washington Wizards",43,39,0.524,"34M","1.6B",91
